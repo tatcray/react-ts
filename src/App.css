@@ -1,0 +1,6 @@
+.user {
+    border: 2px solid teal;
+    padding: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
